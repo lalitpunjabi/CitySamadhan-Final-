@@ -1,20 +1,20 @@
-*CitySamadhan - Citizen Grievance Redressal System*
+# CitySamadhan - Citizen Grievance Redressal System
 
 CitySamadhan is a web-based Citizen Grievance Redressal System (CGRS) built to bridge the gap between citizens and civic authorities. Empowering citizens to resolve civic issues efficiently and transparently.
 It enables users to report, track, and discuss civic issues in their cities while providing departments with tools to address complaints effectively. Developed during "Code - ए - Manipal", this project leverages modern web technologies to create a scalable, user-friendly solution for urban governance.
 
 
 
-_#Key Features ✨_
+# Key Features ✨_
 
-_User Management 👤_
+__User Management 👤__
 
 -> User registration & login with OTP verification 🔐
 
 -> Profiles with city, state & notification prefs 🏙
 
 
-_Complaint Management 📢_
+__Complaint Management 📢__
 
 -> Submit complaints: title, desc, pics, GPS & dept 📸
 
@@ -23,14 +23,14 @@ _Complaint Management 📢_
 -> Thread discussions for collab 🗣
 
 
-_Department Integration 🏢_
+__Department Integration 🏢__
 
 -> Contact deets: toll-free, emails, locations 📞
 
 -> Dept-wise complaint workflows ⚙
 
 
-_Interactive Features 🎉_
+__Interactive Features 🎉__
 
 -> Upvote/downvote complaints 👍👎
 
@@ -39,21 +39,21 @@ _Interactive Features 🎉_
 -> Detect similar issues 🔍
 
 
-_Notification System 🔔_
+__Notification System 🔔__
 
 -> Real-time alerts: status, replies, updates ⚡
 
 -> Email + in-app notifications 📧
 
 
-_Geographic Features 🌍_
+__Geographic Features 🌍__
 
 -> City & state organization 🗺
 
 -> Location tracking + nearby complaint detection 📍
 
 
-_Security 🔒_
+__Security 🔒__
 
 -> Secure login & session mgmt 🛡
 
@@ -63,7 +63,7 @@ _Security 🔒_
 
 
 
-_Tech Stack </>_
+__Tech Stack </>__
 
 -> Backend: Flask (Python)
 
