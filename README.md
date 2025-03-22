@@ -1,6 +1,6 @@
-# CitySamadhan - Citizen Grievance Redressal System
+# CitySamadhan - Complaint Management System for Citizen
 
-CitySamadhan is a web-based Citizen Grievance Redressal System (CGRS) built to bridge the gap between citizens and civic authorities. Empowering citizens to resolve civic issues efficiently and transparently.
+CitySamadhan is a web-based Complaint Management System for Citizen built to bridge the gap between citizens and civic authorities. Empowering citizens to resolve civic issues efficiently and transparently.
 It enables users to report, track, and discuss civic issues in their cities while providing departments with tools to address complaints effectively. Developed during "Code - ए - Manipal", this project leverages modern web technologies to create a scalable, user-friendly solution for urban governance.
 
 
